@@ -6,7 +6,7 @@ The purpose of this repository is to organize theoretical work, simulations, and
 
 ## Current Content
 
-### Introduction to Quantum Computing
+### Introduction to Quantum Computing (Qureca's online course)
 
 Notes covering the basic concepts of quantum computing, including:
 
